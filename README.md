@@ -1,1 +1,2 @@
-# This repo contains React code for React Hook form binding with Material UI and Yup validation. This code is free to use under MIT License
+# React Hook Form with Material UI and Yup 
+This repo contains React code for React Hook form binding with Material UI and Yup validation. This code is free to use under MIT License
